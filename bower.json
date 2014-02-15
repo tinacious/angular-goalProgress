@@ -6,6 +6,6 @@
     "readme.md"
   ],
   "dependencies": {
-    "goalProgress": ">=1.0"
+    "goalProgress": "1.0"
   }
 }
