@@ -9,7 +9,7 @@ An AngularJS directive to work with my [goalProgress jQuery plugin](https://gith
 This directive and its dependencies can be downloaded and installed into your project with Bower:
 
 ```bash
-bower install angular-goalProgress --save-dev
+bower install angular-goalProgress --save
 grunt bower-install
 ```
 
