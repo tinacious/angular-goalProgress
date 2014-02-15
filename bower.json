@@ -3,7 +3,7 @@
   "description": "AngularJS directive for goalProgress.js, an animated progress bar jQuery plugin.",
   "version": "1.0",
   "ignore": [
-    "readme.md",
+    "readme.md"
   ],
   "dependencies": {
     "goalProgress": ">=1.0"
