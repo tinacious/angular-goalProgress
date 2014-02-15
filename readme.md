@@ -20,3 +20,5 @@ grunt bower-install
 ```html
 <div goal-progress current="100" goal="150" before="$" after=" raised!"></div>
 ```
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tinacious/angular-goalprogress/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
