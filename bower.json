@@ -2,6 +2,7 @@
   "name": "angular-goalProgress",
   "description": "AngularJS directive for goalProgress.js, an animated progress bar jQuery plugin.",
   "version": "1.0",
+  "main": "./angular-goalProgress.js",
   "ignore": [
     "readme.md"
   ],
