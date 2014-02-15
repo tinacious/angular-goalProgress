@@ -6,9 +6,16 @@ An AngularJS directive to work with my [goalProgress jQuery plugin](https://gith
 
 ## Usage
 
+This directive and its dependencies can be downloaded and installed into your project with Bower:
+
+```bash
+bower install angular-goalProgress --save-dev
+grunt bower-install
+```
+
 1. Add `tinacious.goalProgress` module as an app dependency.
 2. Implement the directive as a `div` attribute.
-3. Include jQuery and goalProgress dependencies in your HTML.
+3. Include jQuery and goalProgress dependencies in your HTML. Using Bower with the above commands will do this for you.
 
 ```html
 <div goal-progress current="100" goal="150" before="$" after=" raised!"></div>
